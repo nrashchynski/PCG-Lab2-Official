@@ -1,1 +1,1 @@
-## Another branch has all content
+# Another branch has all content
